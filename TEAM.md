@@ -10,8 +10,8 @@
 
 **Team members:**
 
-* u235589 - Adrià De Angulo - adria.deangulo01@estudiant.upf.edu - 123103664
-* u235587 - Fulden Ece Ugur - fuldenece.ugu01@estudiant.upf.edu - 52543672
+* 235589 - Adrià De Angulo - adria.deangulo01@estudiant.upf.edu - 123103664
+* 235587 - Fulden Ece Ugur - fuldenece.ugu01@estudiant.upf.edu - 52543672
 
 Replace the lines above with the correct details of members. Delete or add lines as needed.
 
